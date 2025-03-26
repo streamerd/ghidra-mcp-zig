@@ -1,0 +1,9 @@
+.{ .name = "ghidra-mcp-zig", .version = "0.1.0", .paths = .{
+    "src",
+    "src/plugin",
+    "src/plugin/jni",
+    "src/server",
+}, .dependencies = .{ .JNI = .{
+    .url = "https://github.com/SuperIceCN/zig-jni/archive/refs/tags/v0.0.9.tar.gz",
+    .hash = "12203d5958babdf88de3e2c55cc6b7551cae322da63f324e8cc700efb09f7a5b2c3a",
+} } }

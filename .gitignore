@@ -1,0 +1,54 @@
+ctx
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS metadata files
+.Spotlight-V100
+.Trashes
+
+# Environment files
+.env
+
+
+# Java
+*.class
+src/java/gradle/
+src/java/.gradle/
+src/java/build/
+
+testbins
+
+# Zig specific
+.zig-cache/
+.zig-out/
+zig-out/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+*.out
+*.zig.obj
+*.zig.o
+*.zig.exe
+*.zig.out
+*.zig.dylib
+*.zig.so
+*.zig.dll
+*.zig.a
+*.zig.lib
+
