@@ -1,5 +1,14 @@
 # Ghidra MCP Zig Plugin
 
+[![Ghidra](https://img.shields.io/badge/Ghidra-11.3.1-orange.svg)](https://ghidra-sre.org/)
+[![Zig](https://img.shields.io/badge/Zig-0.13.0-blue.svg)](https://ziglang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+[![Go](https://img.shields.io/badge/Go-1.22.4-blue.svg)](https://golang.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-8.13-green.svg)](https://gradle.org/)
+
+![Ghidra MCP Zig Plugin](https://github.com/user-attachments/assets/4986d702-be3f-4697-acce-aea55cd79ad3)
+
 A Ghidra plugin that provides a bridge between Ghidra and a Zig-based MCP server for enhanced program analysis capabilities.
 
 ## Features
